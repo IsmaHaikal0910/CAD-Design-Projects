@@ -75,7 +75,7 @@ Project_Name/
 
 ###  Tools & Software
 
-* SolidWorks / Fusion 360 / Inventor
+* SolidWorks / Fusion 360 / Inventor / CATIA
 * MATLAB (if applicable)
 * Excel (data analysis and validation)
 
