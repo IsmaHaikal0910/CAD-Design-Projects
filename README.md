@@ -48,16 +48,80 @@ Project_Name/
 
 ###  Highlighted Projects
 
-####  Gimbal System (In Progress)
+###  Mechanical & Product Design
 
-* Custom mechanical design for a stabilized system
-* Integration of internal lithium battery housing
-* Focus on compactness and structural efficiency
+####  Bottle Opener
 
-####  Mechanical Components Library
+* Compact handheld design
+* Focus on ergonomics and manufacturability
 
-* Collection of parametric parts (brackets, mounts, couplings)
-* Designed for reusability across different projects
+####  Headphone
+
+* Consumer product design concept
+* Emphasis on form, symmetry, and usability
+
+####  Pan Handle
+
+* Thermal and ergonomic considerations
+* Designed for practical everyday use
+
+---
+
+###  Engineering Components
+
+####  Crane Hook
+
+* Load-bearing component design
+* Focus on strength and geometry optimization
+
+####  Valve Block
+
+* Fluid system component
+* Internal channel design and flow considerations
+
+####  Pneumatic Cylinder
+
+* Mechanical actuator design
+* Understanding of sealing, motion, and assembly
+
+---
+
+###  Fluid & Process Engineering
+
+####  Microfluidics Diffusion Mixer
+
+* Channel-based mixing design
+* Focus on diffusion-driven flow behavior
+
+####  Peristaltic Pump
+
+* Mechanism-based fluid transport system
+* Integration of rotating elements and flexible tubing
+
+---
+
+###  System-Level / Larger Designs
+
+####  Gimbal – 1st Design
+
+* Stabilization system concept
+* Early-stage architecture and mechanical layout
+
+####  Vehicle Bumper
+
+* Structural automotive component
+* Focus on geometry and impact considerations
+
+---
+
+###  Other Work
+
+####  Presentation
+
+* Supporting material for design explanation
+* Demonstrates ability to communicate technical concepts
+
+---
 
 *(More projects will be added over time.)*
 
@@ -141,16 +205,80 @@ Projektname/
 
 ###  Ausgewählte Projekte
 
-####  Gimbal-System (in Bearbeitung)
+###  Mechanische Konstruktionen & Produktdesign
 
-* Eigenständige mechanische Konstruktion eines stabilisierten Systems
-* Integration eines internen Lithium-Batteriegehäuses
-* Fokus auf kompakte Bauweise und strukturelle Effizienz
+####  Flaschenöffner
 
-####  Bibliothek mechanischer Komponenten
+* Kompakte, handgeführte Konstruktion
+* Fokus auf Ergonomie und Herstellbarkeit
 
-* Sammlung parametrisierter Bauteile (Halterungen, Kupplungen etc.)
-* Wiederverwendbar für verschiedene Projekte
+####  Kopfhörer
+
+* Konzept eines Konsumprodukts
+* Schwerpunkt auf Design und Benutzerfreundlichkeit
+
+####  Pfannengriff
+
+* Berücksichtigung von Ergonomie und Wärmeleitung
+* Praxisorientiertes Design
+
+---
+
+###  Maschinenbauliche Komponenten
+
+####  Kranhaken
+
+* Tragendes Bauteil
+* Fokus auf Festigkeit und Geometrie
+
+####  Ventilblock
+
+* Bauteil für Fluidsysteme
+* Interne Kanalführung und Strömungsaspekte
+
+####  Pneumatikzylinder
+
+* Aktor-Design
+* Verständnis von Bewegung, Dichtung und Aufbau
+
+---
+
+###  Fluid- & Verfahrenstechnik
+
+####  Mikrofluidischer Diffusionsmischer
+
+* Kanalbasierte Mischstruktur
+* Fokus auf diffusionsgetriebene Prozesse
+
+####  Peristaltische Pumpe
+
+* Mechanisches Förderprinzip
+* Kombination aus Rotation und flexiblem Schlauchsystem
+
+---
+
+###  Systemnahe / größere Konstruktionen
+
+####  Gimbal – Erstes Design
+
+* Stabilisierungssystem
+* Erste mechanische Gesamtstruktur
+
+####  Fahrzeugstoßfänger
+
+* Strukturelles Automobilbauteil
+* Geometrie- und Belastungsüberlegungen
+
+---
+
+###  Weitere Arbeiten
+
+####  Präsentation
+
+* Aufbereitung technischer Inhalte
+* Darstellung von Konzepten und Ergebnissen
+
+---
 
 *(Weitere Projekte folgen.)*
 
