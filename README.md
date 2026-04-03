@@ -90,7 +90,7 @@ Project_Name/
 
 ###  Contact
 
-* GitHub: *(https://github.com/JustJigsaw)*
+* GitHub: *(https://github.com/IsmaHaikal0910)*
 * LinkedIn: *(https://www.linkedin.com/in/muhammad-isma-haikal-bin-ismail-6683b4386/)*
 
 ---
@@ -184,7 +184,7 @@ Projektname/
 
 ###  Kontakt
 
-* GitHub: *(https://github.com/JustJigsaw)*
+* GitHub: *(https://github.com/IsmaHaikal0910)*
 * LinkedIn: *(https://www.linkedin.com/in/muhammad-isma-haikal-bin-ismail-6683b4386/)*
 
 ---
