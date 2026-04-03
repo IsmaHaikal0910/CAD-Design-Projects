@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-27012020-096795";"";
+"REFERENCE";"6660110";"";
+"STANDARD2";"(similar ISO 4032)";"";
+"STANDARD1";"DIN 934";"";
+"TraceParts.InstanceId";"10-27012020-0967956GJE1L7PAZUKN54WVJBEYH15C";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"66601 HEXAGON NUTS";"";
+"SUPPLIER";"Acton";"";
+"DESIGN";"66601 HEXAGON NUTS - 6660110";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"MATERIAL";"Inox A4L-80";"";
+"TraceParts.PartVersion";"1.1.1";"";

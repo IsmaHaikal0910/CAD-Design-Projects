@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-27102023-076737";"";
+"REFERENCE";"189670";"";
+"rs_stock_number";"189670";"";
+"TraceParts.InstanceId";"90-27102023-07673778P2ST6ENTHNY6M228NL8S6AD";"";
+"url";"https://uk.rs-online.com/web/p/products/189670//?cm_mmc=aff-_-uk-_-traceparts-_-189670'";"";
+"TraceParts.PartTitle";"A4 STAINLESS STEEL PLAIN WASHER,M10";"";
+"SUPPLIER";"RS PRO";"";
+"DESIGN";"A4 STAINLESS STEEL PLAIN WASHER,M10";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.4";"";

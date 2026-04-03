@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"OUTER_DIAMETER";"10";"";
+"REFERENCE";"623";"";
+"INNER_DIAMETER";"3";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.InstanceId";"33-09092021-0801749Y9EE8MIQZNTNS7G7RZM5D0B8";"";
+"TraceParts.PartNumber";"33-09092021-080174";"";
+"TraceParts.PartTitle";"Einreihige Rillenkugellager, Reihe 6, Außendurchmesser 10 mm, Innendurchmesser 3 mm - 623";"";
+"SUPPLIER";"Hans Saurer Kugellager AG";"";
+"DESIGN";"Einreihige Rillenkugellager, Reihe 6, Außendurchmesser 10 mm, Innendurchmesser 3 mm - 623";"";
+"TraceParts.PartVersion";"1.2.4";"";
+"WIDTH";"4";"";

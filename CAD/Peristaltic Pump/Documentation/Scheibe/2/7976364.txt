@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-27102023-078398";"";
+"REFERENCE";"7976364";"";
+"rs_stock_number";"7976364";"";
+"TraceParts.InstanceId";"90-27102023-07839878P2ST6ENTHNY6M228NL8S6AD";"";
+"url";"https://uk.rs-online.com/web/p/products/7976364//?cm_mmc=aff-_-uk-_-traceparts-_-7976364'";"";
+"TraceParts.PartTitle";"A4 S/STEEL PLAIN WASHER,M10, FORM A";"";
+"SUPPLIER";"RS PRO";"";
+"DESIGN";"A4 S/STEEL PLAIN WASHER,M10, FORM A";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.4";"";
