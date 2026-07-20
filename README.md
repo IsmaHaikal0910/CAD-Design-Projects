@@ -84,6 +84,13 @@ Project_Name/
 * Mechanical actuator design
 * Understanding of sealing, motion, and assembly
 
+####  Application Board 3.1 Development Kit Housing
+
+* Designed a custom enclosure for the Application Board 3.1 Development Kit
+* Integrated mounting points for PCB, connectors, and fasteners
+* Considered cable routing, ventilation, and accessibility for debugging and maintenance
+* Designed with manufacturability and assembly in mind using parametric CAD techniques
+
 ---
 
 ###  Fluid & Process Engineering
@@ -240,6 +247,13 @@ Projektname/
 
 * Aktor-Design
 * Verständnis von Bewegung, Dichtung und Aufbau
+
+####  Gehäuse für das Application Board 3.1 Development Kit
+
+* Entwicklung eines maßgeschneiderten Gehäuses für das Application Board 3.1 Development Kit
+* Integration von Befestigungspunkten für Leiterplatte, Steckverbinder und Schrauben
+* Berücksichtigung von Kabelführung, Belüftung sowie Zugänglichkeit für Debugging und Wartung
+* Konstruktion unter Berücksichtigung von Fertigung, Montage und parametrischer CAD-Modellierung
 
 ---
 
