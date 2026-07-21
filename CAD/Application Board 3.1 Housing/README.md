@@ -1,1 +1,89 @@
 
+# Application Board 3.1 — Dev Kit Housing
+
+**GitHub description (short):**
+> A compact 3D-printed two-piece enclosure for the Application Board 3.1 dev kit, with cutouts for USB, connector, and button access, assembled with brass heat-set inserts. Designed in 3DEXPERIENCE/CATIA.
+
+---
+
+## 🇬🇧 English
+
+### Overview
+A small custom enclosure designed for the **Application Board 3.1** development kit. The housing is modeled as a two-part shell — **Base** and **Top** — that fully encloses the board while keeping its connectors and controls accessible from the outside.
+
+### Design Details
+- **Two-piece shell**: bottom tray (Base) holds the board, top cover (Top) closes over it
+- **Fastening**: the two halves are joined with stainless steel pan-head screws (slotted and Phillips variants) driven into **brass heat-set inserts**, with general-purpose washers under the screw heads
+- **Cutouts / openings**:
+  - Micro-USB port access for power/programming
+  - Opening for the board's 4-pin connector (JST-SR-style header)
+  - Cutout for the button module (user/reset tact switches)
+- Modeled in **CATIA / 3DEXPERIENCE** and exported as STEP (AP242)
+
+### Files
+- `App Board + Housing.stp` — full assembly (board + base + top + fasteners) for reference/fit-checking
+- Export the **Base** and **Top** bodies individually as STL for printing
+
+### Recommended FDM Print Settings
+| Setting | Recommendation | Why |
+|---|---|---|
+| Material | PETG (preferred) or PLA | PETG is tougher and holds up better around the heat-set inserts and screw bosses; PLA is fine for a quick prototype |
+| Layer height | 0.2 mm | Good balance of detail (for the connector/button cutouts) and print time |
+| Wall (perimeter) count | 3 (≈1.2 mm walls) | Enough rigidity around screw bosses without excess weight |
+| Top/bottom layers | 4–5 | Solid enclosure faces, no pinholes near cutouts |
+| Infill | 20–25%, grid or gyroid | Enough strength for a handheld enclosure; no need to go higher |
+| Print orientation | Base and Top printed cutout-face-up (open side up), flat on the bed | Minimizes overhangs at the USB/connector/button openings and avoids supports inside the cavity |
+| Supports | Off, or "supports on touching build plate only" | The design shouldn't need internal supports if oriented as above; only enable if overhangs appear at screw bosses |
+| Nozzle temp | 230–240 °C (PETG) / 200–210 °C (PLA) | Standard range; tune per filament brand |
+| Bed temp | 80 °C (PETG) / 60 °C (PLA) | Standard range |
+| Cooling fan | Reduced for PETG (~30–50%), full for PLA | PETG bonds layers better with less cooling |
+| Heat-set insert holes | Print holes ~0.2–0.4 mm undersized vs. the insert's nominal OD | Inserts are pressed/melted in with a soldering iron after printing — undersized holes give a tight, strong fit |
+| Screw bosses | Avoid supports inside boss holes; print bosses solid (100% local infill via "solid infill" modifier if needed) | Prevents the heat-set insert from being pushed through weak infill |
+
+### Assembly Notes
+1. Print Base and Top.
+2. Melt the brass heat-set inserts into the printed boss holes with a soldering iron (do this before final assembly, not before printing).
+3. Place the Application Board 3.1 into the Base.
+4. Close the Top over it and fasten both halves with the stainless steel screws + washers into the heat-set inserts.
+
+---
+
+## 🇩🇪 Deutsch
+
+### Überblick
+Ein kompaktes, selbst entworfenes Gehäuse für das **Application Board 3.1** Development Kit. Das Gehäuse besteht aus zwei Teilen — **Base** (Unterteil) und **Top** (Deckel) — die das Board vollständig umschließen und dabei die Anschlüsse und Bedienelemente von außen zugänglich halten.
+
+### Konstruktionsdetails
+- **Zweiteiliges Gehäuse**: Die Bodenschale (Base) nimmt das Board auf, der Deckel (Top) schließt es ab
+- **Verschraubung**: Beide Hälften werden mit Edelstahl-Pan-Head-Schrauben (Schlitz- und Kreuzschlitz-Varianten) verbunden, die in **Messing-Gewindeeinsätze (Heat-Set Inserts)** eingedreht werden; Unterlegscheiben sitzen unter den Schraubenköpfen
+- **Aussparungen / Öffnungen**:
+  - Zugang zum Micro-USB-Port für Stromversorgung/Programmierung
+  - Öffnung für den 4-poligen Steckverbinder des Boards (JST-SR-artiger Header)
+  - Aussparung für das Tastenmodul (Bedien-/Reset-Taster)
+- Modelliert in **CATIA / 3DEXPERIENCE**, Export als STEP (AP242)
+
+### Dateien
+- `App Board + Housing.stp` — vollständige Baugruppe (Board + Base + Top + Verbindungselemente) zur Referenz/Passungskontrolle
+- **Base** und **Top** einzeln als STL für den Druck exportieren
+
+### Empfohlene FDM-Druckeinstellungen
+| Einstellung | Empfehlung | Begründung |
+|---|---|---|
+| Material | PETG (bevorzugt) oder PLA | PETG ist widerstandsfähiger rund um die Gewindeeinsätze und Schraubdome; PLA reicht für einen schnellen Prototyp |
+| Schichthöhe | 0,2 mm | Guter Kompromiss aus Detailtreue (Steckverbinder-/Tasten-Aussparungen) und Druckzeit |
+| Anzahl Wandlinien | 3 (≈1,2 mm Wandstärke) | Ausreichende Steifigkeit um die Schraubdome, ohne unnötiges Gewicht |
+| Deck-/Bodenschichten | 4–5 | Geschlossene Gehäuseflächen, keine Nadellöcher nahe der Aussparungen |
+| Infill | 20–25 %, Grid oder Gyroid | Ausreichende Festigkeit für ein Handheld-Gehäuse; mehr ist nicht nötig |
+| Druckausrichtung | Base und Top mit der offenen Seite nach oben, flach auf dem Druckbett | Minimiert Überhänge an USB-/Steckverbinder-/Tasten-Öffnungen und vermeidet Stützstrukturen im Innenraum |
+| Stützstrukturen | Aus, oder „nur auf Druckbett aufliegend" | Bei der oben genannten Ausrichtung normalerweise nicht nötig; nur aktivieren, falls an den Schraubdomen Überhänge auftreten |
+| Düsentemperatur | 230–240 °C (PETG) / 200–210 °C (PLA) | Standardbereich; je nach Filamenthersteller anpassen |
+| Betttemperatur | 80 °C (PETG) / 60 °C (PLA) | Standardbereich |
+| Bauteilkühlung | Bei PETG reduziert (~30–50 %), bei PLA voll | PETG verbindet die Schichten bei geringerer Kühlung besser |
+| Löcher für Gewindeeinsätze | Bohrungen ca. 0,2–0,4 mm kleiner als der Nenn-Außendurchmesser des Inserts drucken | Die Inserts werden nach dem Druck mit einem Lötkolben eingeschmolzen — knapp bemessene Löcher ergeben einen festen Sitz |
+| Schraubdome | Keine Stützstrukturen innerhalb der Domlöcher; Dome möglichst voll infillt drucken (ggf. „Solid Infill"-Modifier) | Verhindert, dass der Gewindeeinsatz durch schwaches Infill gedrückt wird |
+
+### Montagehinweise
+1. Base und Top drucken.
+2. Die Messing-Gewindeeinsätze nach dem Druck mit einem Lötkolben in die Domlöcher einschmelzen (nicht vor dem Druck).
+3. Das Application Board 3.1 in die Base einlegen.
+4. Den Top-Deckel aufsetzen und beide Hälften mit den Edelstahlschrauben + Unterlegscheiben in den Gewindeeinsätzen verschrauben.
