@@ -25,7 +25,7 @@ A small custom enclosure designed for the **Application Board 3.1** development 
 - Export the **Base** and **Top** bodies individually as STL for printing
 
 ### Recommended FDM Print Settings
-| Setting | Recommendation | Why |
+| Setting | Recommendation | Reason |
 |---|---|---|
 | Material | PETG (preferred) or PLA | PETG is tougher and holds up better around the heat-set inserts and screw bosses; PLA is fine for a quick prototype |
 | Layer height | 0.2 mm | Good balance of detail (for the connector/button cutouts) and print time |
